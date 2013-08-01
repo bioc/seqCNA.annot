@@ -1,0 +1,14 @@
+Package: seqCNA.annot
+Type: Package
+Title: Annotation for the copy number analysis of deep sequencing
+        cancer data with seqCNA
+Version: 0.99.0
+Date: 2013-03-27
+Author: David Mosen-Ansorena
+Maintainer: David Mosen-Ansorena <dmosen.gn@cicbiogune.es>
+Import:
+Depends: R (>= 2.10)
+Description: Provides annotation on GC content, mappability and genomic features for various genomes
+License: GPL-3
+biocViews: Bioinformatics, CopyNumberVariants, Genetics,
+        HighThroughputSequencing
