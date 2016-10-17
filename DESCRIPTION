@@ -2,7 +2,7 @@ Package: seqCNA.annot
 Type: Package
 Title: Annotation for the copy number analysis of deep sequencing
         cancer data with seqCNA
-Version: 1.10.0
+Version: 1.11.0
 Date: 2013-03-27
 Author: David Mosen-Ansorena
 Maintainer: David Mosen-Ansorena <dmosen.gn@cicbiogune.es>
